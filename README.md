@@ -25,4 +25,6 @@ What I work on
 
 Currently documenting my labs and projects here as I move toward entry-level networking and network support roles.
 
-📫 **Reach me**: LinkedIn | GitHub
+📫 **Reach me**
+LinkedIn: https://www.linkedin.com/in/muhammad-saleem-it/
+
