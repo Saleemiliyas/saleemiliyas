@@ -1,7 +1,8 @@
-👋 Hi, I’m **Muhammad Saleem**
+👋 Hi, I’m Muhammad Saleem
 
-  🎯 Aspiring Network Engineer | Networking Fundamentals | Hands-on Labs
-  📍 Kerala, India
+🎯 Networking fundamentals | VLANs • Inter-VLAN Routing • IP Addressing  
+📍 Kerala, India
+
 
 I focus on building strong networking foundations through practical lab work and simulations.
 What I work on
