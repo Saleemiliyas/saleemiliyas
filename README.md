@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Muhammad Saleem 👋
 
-<!--
-**Saleemiliyas/saleemiliyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Network Engineer  
+📍 Kerala, India  
 
-Here are some ideas to get you started:
+### What I work on
+- VLAN configuration
+- Inter-VLAN routing
+- IP addressing & subnetting
+- Cisco Packet Tracer labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+- Cisco Packet Tracer
+- Linux
+- Wireshark (basic)
+
+📫 Reach me: LinkedIn | GitHub
